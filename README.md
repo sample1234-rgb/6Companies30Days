@@ -1,6 +1,7 @@
 # 6Companies30Days
 Cracking 6 Companies in 30 days with revision
-[#ReviseWithArsh] #6Companies30Days Challenge 2023
+
+![#ReviseWithArsh](https://shields.io/badge/RevisionWthArsh-green?style=flat) #6Companies30Days Challenge 2023
 
 A Challenge to make sure you start with your goals today, don’t procrastinate and don’t let your college decide your future!
 
