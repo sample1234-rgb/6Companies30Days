@@ -18,8 +18,11 @@ Rules :
 - You need to start the challenge by putting in a post on LinkedIn, Instagram, Twitter with hashtag #6Companies30days and #ReviseWithArsh and tag “Arsh Goyal” so that your entry can be tracked and you are eligible for referrals and other benefits.
 - Why wait to start- start it today!
 
-|  |  |  |  |  |  |
-
-|---|---|---|---|---|---|---| 
-
-| [ ] 1 | [ ] 2 | [ ] 3 | [ ] 4 | [ ] 5 | [ ] 6 |
+| - | - | - | January | - | - | - |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
+| $$\color{red} S$$ | M | T | W | T | F |$$\color{blue} S$$|
+| $$\color{lime} 1$$ | $$\color{lime} 2$$ | $$\color{red} 3$$ | $$\color{lime} 4$$ | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 |
